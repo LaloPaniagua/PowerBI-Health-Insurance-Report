@@ -1,6 +1,8 @@
 ENG
 
-Hi! This little proyect is my take on the health insurance cost dashboard that can be seen here: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcifmZio6KUDKDg-XDuXek7bRl223Y8Dh4PPHpw9pxlad2n-Js7xxS3v8YSj5CdLBrOllkKKfngJnFqZur8Z7hRbTtqNS38L0iZRSrspzYRqqpEnzcFgKK1B9gDsCczwZ90korQ?key=i4y1PaMYb0Lj6kj0IgCzsg
+Hi!
+
+This little proyect is my take on the health insurance cost dashboard that can be seen here: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcifmZio6KUDKDg-XDuXek7bRl223Y8Dh4PPHpw9pxlad2n-Js7xxS3v8YSj5CdLBrOllkKKfngJnFqZur8Z7hRbTtqNS38L0iZRSrspzYRqqpEnzcFgKK1B9gDsCczwZ90korQ?key=i4y1PaMYb0Lj6kj0IgCzsg
 
 Said dashboard breaks down health insurance costs by using parameters such as age, gender, location (region), BMI and whether or not a patient is a smoker.
 
@@ -11,7 +13,10 @@ finally, create new visuals that may aid in the decision making process by makin
 
 
 ES
-¡Hola! Este pequeño proyecto tuvo como objetivo recrear el dashboard con costos de seguro de gastos médicos que se puede ver en el siguiente link: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcifmZio6KUDKDg-XDuXek7bRl223Y8Dh4PPHpw9pxlad2n-Js7xxS3v8YSj5CdLBrOllkKKfngJnFqZur8Z7hRbTtqNS38L0iZRSrspzYRqqpEnzcFgKK1B9gDsCczwZ90korQ?key=i4y1PaMYb0Lj6kj0IgCzsg
+
+¡Hola!
+
+Este pequeño proyecto tuvo como objetivo recrear el dashboard con costos de seguro de gastos médicos que se puede ver en el siguiente link: https://lh7-rt.googleusercontent.com/docsz/AD_4nXcifmZio6KUDKDg-XDuXek7bRl223Y8Dh4PPHpw9pxlad2n-Js7xxS3v8YSj5CdLBrOllkKKfngJnFqZur8Z7hRbTtqNS38L0iZRSrspzYRqqpEnzcFgKK1B9gDsCczwZ90korQ?key=i4y1PaMYb0Lj6kj0IgCzsg
 
 Dicho dashboard desglosa los costos utilizando parámetros como la edad, el género, la región, el índice de masa corporal (BMI) y si el paciente es fumador o no.
 
